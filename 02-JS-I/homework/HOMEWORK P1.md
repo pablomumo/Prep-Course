@@ -1,6 +1,11 @@
  * Variables
  Una variable es un elemento que se emplea para almacenar y hacer referencia a otro valor, por ejemplo var a = 1, con lo que a va a valer
- 1 desde aca en adelante. para declarar una variable se usa var.
+ 1, desde aca en adelante. 
+ Para declarar una variable se usa var; 
+ var a = 1 
+ a 
+ 1
+ 
 
  * Strings
  Es un dato de texto. siempre que algo este entre comillas simples o 
