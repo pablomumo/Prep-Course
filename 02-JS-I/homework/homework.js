@@ -103,7 +103,7 @@ function mayorQueCincuenta(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   if (num > 50) {
-    return true
+        return true
     
   } else {
     return false
